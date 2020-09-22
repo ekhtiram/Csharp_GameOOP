@@ -1,0 +1,10 @@
+C:\Users\Celal Baba\Desktop\Yeni klasör\250\NDPProje\NDPProje\bin\Debug\NDPProje.exe.config
+C:\Users\Celal Baba\Desktop\Yeni klasör\250\NDPProje\NDPProje\bin\Debug\NDPProje.exe
+C:\Users\Celal Baba\Desktop\Yeni klasör\250\NDPProje\NDPProje\bin\Debug\NDPProje.pdb
+C:\Users\Celal Baba\Desktop\Yeni klasör\250\NDPProje\NDPProje\obj\Debug\NDPProje.csprojAssemblyReference.cache
+C:\Users\Celal Baba\Desktop\Yeni klasör\250\NDPProje\NDPProje\obj\Debug\NDPProje.Form1.resources
+C:\Users\Celal Baba\Desktop\Yeni klasör\250\NDPProje\NDPProje\obj\Debug\NDPProje.Properties.Resources.resources
+C:\Users\Celal Baba\Desktop\Yeni klasör\250\NDPProje\NDPProje\obj\Debug\NDPProje.csproj.GenerateResource.cache
+C:\Users\Celal Baba\Desktop\Yeni klasör\250\NDPProje\NDPProje\obj\Debug\NDPProje.csproj.CoreCompileInputs.cache
+C:\Users\Celal Baba\Desktop\Yeni klasör\250\NDPProje\NDPProje\obj\Debug\NDPProje.exe
+C:\Users\Celal Baba\Desktop\Yeni klasör\250\NDPProje\NDPProje\obj\Debug\NDPProje.pdb
